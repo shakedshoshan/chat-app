@@ -12,20 +12,35 @@ This repository contains the source code for a live chat web application built w
 ## Technologies
 
 Backend:
+
 Node.js: JavaScript runtime environment for server-side execution.
+
 Express: Web framework for building robust APIs.
+
 Mongoose: Object Data Modeling (ODM) library for MongoDB interaction.
+
 Socket.IO: Enables real-time, bidirectional communication between the server and clients.
+
 Other dependencies: bcryptjs, cookie-parser, dotenv, jsonwebtoken
+
+
 Frontend:
+
 React: JavaScript library for building user interfaces.
+
 React Router DOM: Routing library for navigation within the React application.
+
 Socket.IO Client: Enables real-time communication from the client (browser) to the server.
+
 Zustand: State management library for managing application state.
+
 Vite: Modern build tool for rapid development and efficient bundling.
+
 Tailwind CSS: Utility-first CSS framework for rapid styling.
+
 DaisyUI: Comprehensive UI component library built on Tailwind CSS.
-Other dependencies: react-hot-toast, react-icons, eslint, autoprefixer, postcss
+
+
 ## Getting Started
 
 Prerequisites:
@@ -34,7 +49,7 @@ Node.js and npm installed on your system.
 A code editor or IDE of your choice.
 Clone the repository
 
-Bash
+```bash
 git clone https://github.com/<your-username>/live-chat-app.git
 
 
@@ -42,24 +57,26 @@ Install dependencies
 
 Navigate to the project root directory and run:
 
-Bash
+```bash
 npm install
 
 also in /frontend 
 
-
 Start the development server
 
-Bash
-npm run dev:backend
-npm run dev:frontend
+```bash
+npm run dev
+in root directory
+```bash
+npm run dev
+in /frontend
 
 
 ## Build for Production
 
 To create an optimized production build:
 
-Bash
+```bash
 npm run build 
-
+```bash
 npm run start
