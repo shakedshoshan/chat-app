@@ -11,7 +11,7 @@ This repository contains the source code for a live chat web application built w
 
 ## Technologies
 
-Backend:
+**Backend**:
 
 Node.js: JavaScript runtime environment for server-side execution.
 
@@ -25,7 +25,7 @@ Other dependencies: bcryptjs, cookie-parser, dotenv, jsonwebtoken
 
 
 
-Frontend:
+**Frontend**:
 
 React: JavaScript library for building user interfaces.
 
@@ -55,12 +55,13 @@ https://github.com/shakedshoshan/chat-app.git
 ```
 
 
-Install dependencies
+**Install dependencies**
 
 Navigate to the project root directory and run:
 
 ```bash
 npm install
+```
 
 also in /frontend 
 
@@ -68,9 +69,11 @@ Start the development server
 
 ```bash
 npm run dev
+```
 in root directory
 ```bash
 npm run dev
+```
 in /frontend
 
 
