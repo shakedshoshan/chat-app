@@ -82,6 +82,8 @@ in /frontend
 To create an optimized production build:
 
 ```bash
-npm run build 
+npm run build
+``` 
 ```bash
 npm run start
+```
