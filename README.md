@@ -24,6 +24,7 @@ Socket.IO: Enables real-time, bidirectional communication between the server and
 Other dependencies: bcryptjs, cookie-parser, dotenv, jsonwebtoken
 
 
+
 Frontend:
 
 React: JavaScript library for building user interfaces.
@@ -50,7 +51,8 @@ A code editor or IDE of your choice.
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/live-chat-app.git
+https://github.com/shakedshoshan/chat-app.git
+```
 
 
 Install dependencies
