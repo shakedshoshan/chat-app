@@ -19,7 +19,7 @@ Express: Web framework for building robust APIs.
 
 Mongoose: Object Data Modeling (ODM) library for MongoDB interaction.
 
-Socket.IO: Enables real-time, bidirectional communication between the server and clients.
+Socket.IO: Enables real-time,  bidirectional communication between the server and clients.
 
 Other dependencies: bcryptjs, cookie-parser, dotenv, jsonwebtoken
 
